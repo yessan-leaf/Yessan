@@ -1,0 +1,8 @@
+{
+    "presets": [
+        "es2015"
+    ], // 配置将es6语法转换成es5语法
+    "plugins": [
+        "transform-runtime"
+    ]
+}
